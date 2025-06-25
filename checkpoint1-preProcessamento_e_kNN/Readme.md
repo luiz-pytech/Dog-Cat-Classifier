@@ -86,8 +86,11 @@ Totalizando **8 bases CNN**.
 - `/Notebooks`  
   → Scripts para extração de características com **HOG** e **CNNs** pré-treinadas, treinamento com **k-NN** e redução de dimensionalidade com **PCA** nas 6 melhores bases.
 
-- `/Relatório`  
+- `Relatório`  
   → Documento com a descrição dos experimentos realizados, resultados obtidos e observações sobre o primeiro checkpoint.
+
+- `Tabela com Resultados`  
+  → Documento com os resultados dos experimentos realizados.
 
 ---
 
