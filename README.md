@@ -66,7 +66,7 @@ Esses extratores foram aplicados nas imagens para transformá-las em **vetores r
 - `/checkpoint1-preProcessamento_e_kNN`  
   → Pré-processamento das imagens, extração de características com **HOG** e **CNNs** pré-treinadas, treinamento com **k-NN** e redução de dimensionalidade com **PCA** nas 6 melhores bases.
 
-- `/checkpoint2-naive_bayes_e_AD`  
+- `/checkpoint2_NB_DT`  
   → Treinamento e análise com **Árvore de Decisão** e **Naive Bayes**.
 
 ---
