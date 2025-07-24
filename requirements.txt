@@ -1,0 +1,24 @@
+# Machine Learning & Deep Learning
+tensorflow
+scikit-learn
+xgboost
+
+# Processamento de Imagem e Extração de Features
+scikit-image
+Pillow
+
+# Análise Estatística
+scipy
+scikit-posthocs
+
+# Manipulação de Dados
+pandas
+numpy
+
+# Visualização de Dados
+matplotlib
+seaborn
+
+# Ambiente de Desenvolvimento
+notebook
+# ou jupyterlab
