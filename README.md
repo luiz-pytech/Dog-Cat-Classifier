@@ -150,4 +150,3 @@ Abaixo estão as tabelas com as métricas de acurácia para cada modelo e extrat
 ## ✍️ Autor
 
 * **Luiz Felipe de Souza Silva**
-    * [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiz-pytech)
